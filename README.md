@@ -44,7 +44,7 @@ The participants are requested to follow the following steps to prepare their wo
 #### Setting up the environment:
 
 - Create a folder named ISMB_ECCB_2023  in your Google Drive.
-- Upload the [data](https://drive.google.com/drive/folders/1118He3vsn-mwMoRDsmWPG_iEzrZ68Vda?usp=sharing)  Folder shared with you and place it under the folder ISMB_ECCB_2023. With data folder placed correctly, the notebooks should be executable without any error. 
+- Upload the [data](https://drive.google.com/drive/folders/1118He3vsn-mwMoRDsmWPG_iEzrZ68Vda?usp=sharing)  Folder shared with you and place it under the folder ISMB_ECCB_2023. With data folder placed correctly, the notebooks should be executable without any error. Due large size, few files are not uploaded in this github repo. Please download the full data folder from [here](https://drive.google.com/drive/folders/1118He3vsn-mwMoRDsmWPG_iEzrZ68Vda?usp=sharing). 
 - Upload ISMB_ECCB_2023_notebooks  folder shared with you and place it under ISMB_ECCB_2023 .
 
 # Outline
