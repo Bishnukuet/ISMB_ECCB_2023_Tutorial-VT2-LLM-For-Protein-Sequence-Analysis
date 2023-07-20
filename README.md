@@ -44,8 +44,62 @@ The participants are requested to follow the following steps to prepare their wo
 #### Setting up the environment:
 
 Create a folder named ISMB_ECCB_2023  in your Google Drive.
-Upload the data  Folder shared with you and place it under the folder ISMB_ECCB_2023. With data folder placed correctly, the notebooks should be executable without any error. 
+Upload the [data](https://drive.google.com/drive/folders/1118He3vsn-mwMoRDsmWPG_iEzrZ68Vda?usp=sharing)  Folder shared with you and place it under the folder ISMB_ECCB_2023. With data folder placed correctly, the notebooks should be executable without any error. 
 Upload ISMB_ECCB_2023_notebooks  folder shared with you and place it under ISMB_ECCB_2023 .
+
+# Outline
+
+## DAY 1 - July 17, 2023 (14:00 -18:00 hrs CEST)
+
+### 14:00-14:30 hrs CEST | Introduction | Slides
+-Introduction to the tutorial session
+-Fundamental concepts about proteins from a biological perspective  
+
+### 14:30-14:45 hrs CEST  - 15 minutes Break/Q&A
+### 14:45-15:45 hrs CEST | Python Programming Refresher | Slides
+-Basic Syntax  
+-Main Python packages to perform scientific computation such as NumPy/Scipy, Pandas, Matplotlib, Biopython. 
+-ML packages such as Scikit-Learn, PyTorch.
+
+[Colab-Notebook-Python-Refresher]()
+
+### 15:45-16:00 hrs CEST  - 15 minutes Break/Q&A
+
+### 16:00-17:45 hrs CEST | Introduction to biological sequence analysis using Deep Learning in Python | Slides
+-Introduction to biological sequence analysis using Deep Learning in Python
+-Building deep learning models (RNN, LSTM) for sequence analysis
+
+[Colab-Notebook-RNN]()  [Colab-Notebook-LSTM]()
+
+### 17:45-18:00 hrs CEST  - 15 minutes Break/Q&A
+
+
+## DAY 2 - July 18, 2023 (14:00 -18:00 hrs CEST)
+
+### 14:00-15:00 hrs CEST | Introduction to Transformer-Based Language Model | Slides
+-Introduction to Transformer-based Language Models 
+-Transformers for biological sequence analysis 
+
+[Colab-Notebook-Transformer]
+
+### 15:00-15:15 hrs CEST  - 15 minutes Break/Q&A
+
+### 15:15-16:30 hrs CEST | Hands-On Case Study 1 - Protein Function Annotation | Slides
+-Introduction to the Case Study-1: Protein function Annotation
+-Building a protein function annotation pipeline using Transformer-based language model.  
+
+[Colab-Notebook-Case-Study-1-Protein-Function-Prediction]
+
+### 16:30-16:45 hrs CEST  - 15 minutes Break/Q&A
+
+### 16:45-17:45 hrs CEST | Hands-On Case Study 2 - Protein Metal-Binding Site Prediction | Slides
+-Introduction to Case Study-2:  Protein Metal-Binding Site Prediction.  
+-Building a protein-metal binding site prediction pipeline using Transformer-based language model.  
+
+[Colab-Notebook-Case-Study-2-Metal-Binding-Site-Prediction]
+
+### 17:45-18:00 hrs CEST  - 15 minutes Q&A and closing remarks
+
 
 ### Organizers: 
 #### 1. Bishnu Sarker 
