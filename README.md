@@ -43,60 +43,60 @@ The participants are requested to follow the following steps to prepare their wo
 
 #### Setting up the environment:
 
-Create a folder named ISMB_ECCB_2023  in your Google Drive.
-Upload the [data](https://drive.google.com/drive/folders/1118He3vsn-mwMoRDsmWPG_iEzrZ68Vda?usp=sharing)  Folder shared with you and place it under the folder ISMB_ECCB_2023. With data folder placed correctly, the notebooks should be executable without any error. 
-Upload ISMB_ECCB_2023_notebooks  folder shared with you and place it under ISMB_ECCB_2023 .
+- Create a folder named ISMB_ECCB_2023  in your Google Drive.
+- Upload the [data](https://drive.google.com/drive/folders/1118He3vsn-mwMoRDsmWPG_iEzrZ68Vda?usp=sharing)  Folder shared with you and place it under the folder ISMB_ECCB_2023. With data folder placed correctly, the notebooks should be executable without any error. 
+- Upload ISMB_ECCB_2023_notebooks  folder shared with you and place it under ISMB_ECCB_2023 .
 
 # Outline
 
 ## DAY 1 - July 17, 2023 (14:00 -18:00 hrs CEST)
 
-### 14:00-14:30 hrs CEST | Introduction | Slides
--Introduction to the tutorial session
--Fundamental concepts about proteins from a biological perspective  
+### 14:00-14:30 hrs CEST | Introduction | [Slides](https://github.com/Bishnukuet/ISMB_ECCB_2023_VT2_LLM/blob/main/Slides/Lecture%201.1%20-%20Introduction%20and%20Fundamentals%20of%20Protein%20Biology.pdf)
+- Introduction to the tutorial session
+- Fundamental concepts about proteins from a biological perspective  
 
 ### 14:30-14:45 hrs CEST  - 15 minutes Break/Q&A
-### 14:45-15:45 hrs CEST | Python Programming Refresher | Slides
--Basic Syntax  
--Main Python packages to perform scientific computation such as NumPy/Scipy, Pandas, Matplotlib, Biopython. 
--ML packages such as Scikit-Learn, PyTorch.
+### 14:45-15:45 hrs CEST | Python Programming Refresher | [Slides](https://github.com/Bishnukuet/ISMB_ECCB_2023_VT2_LLM/blob/main/Slides/Lecture%201.2%20-%20Programming%20Basics%20with%20Python.pdf)
+- Basic Syntax  
+- Main Python packages to perform scientific computation such as NumPy/Scipy, Pandas, Matplotlib, Biopython. 
+- ML packages such as Scikit-Learn, PyTorch.
 
-[Colab-Notebook-Python-Refresher]()
+[Colab-Notebook-Python-Refresher](https://github.com/Bishnukuet/ISMB_ECCB_2023_VT2_LLM/blob/main/notebooks/Day%201-Part-1A-Python-Refresher.ipynb)
 
 ### 15:45-16:00 hrs CEST  - 15 minutes Break/Q&A
 
-### 16:00-17:45 hrs CEST | Introduction to biological sequence analysis using Deep Learning in Python | Slides
--Introduction to biological sequence analysis using Deep Learning in Python
--Building deep learning models (RNN, LSTM) for sequence analysis
+### 16:00-17:45 hrs CEST | Introduction to biological sequence analysis using Deep Learning in Python | [Slides](https://github.com/Bishnukuet/ISMB_ECCB_2023_VT2_LLM/blob/main/Slides/Lecture%201.3%20-%20Introduction%20to%20Sequence%20Modeling.pptx.pdf)
+- Introduction to biological sequence analysis using Deep Learning in Python
+- Building deep learning models (RNN, LSTM) for sequence analysis
 
-[Colab-Notebook-RNN]()  [Colab-Notebook-LSTM]()
+[Colab-Notebook-RNN](https://github.com/Bishnukuet/ISMB_ECCB_2023_VT2_LLM/blob/main/notebooks/Day%201-Part-1B-RNN_Sequence_Classification.ipynb)  [Colab-Notebook-LSTM](https://github.com/Bishnukuet/ISMB_ECCB_2023_VT2_LLM/blob/main/notebooks/Day%201-Part-1C-LSTM_Sequence_Classification.ipynb)
 
 ### 17:45-18:00 hrs CEST  - 15 minutes Break/Q&A
 
 
 ## DAY 2 - July 18, 2023 (14:00 -18:00 hrs CEST)
 
-### 14:00-15:00 hrs CEST | Introduction to Transformer-Based Language Model | Slides
+### 14:00-15:00 hrs CEST | Introduction to Transformer-Based Language Model | [Slides](https://github.com/Bishnukuet/ISMB_ECCB_2023_VT2_LLM/blob/main/Slides/Lecture%202.1%20-%20Introduction%20to%20Transformer-Based%20Language%20Model.pptx.pdf)
 -Introduction to Transformer-based Language Models 
 -Transformers for biological sequence analysis 
 
-[Colab-Notebook-Transformer]
+[Colab-Notebook-Transformer](https://github.com/Bishnukuet/ISMB_ECCB_2023_VT2_LLM/blob/main/notebooks/Day%202-Part-2A-Loading-ProtT5-Pre-Trained-Embeddings.ipynb)
 
 ### 15:00-15:15 hrs CEST  - 15 minutes Break/Q&A
 
-### 15:15-16:30 hrs CEST | Hands-On Case Study 1 - Protein Function Annotation | Slides
+### 15:15-16:30 hrs CEST | Hands-On Case Study 1 - Protein Function Annotation | [Slides](https://github.com/Bishnukuet/ISMB_ECCB_2023_VT2_LLM/blob/main/Slides/Lecture%202.2%20-%20Case%20Studies_and_Closing_Remarks.pdf)
 -Introduction to the Case Study-1: Protein function Annotation
 -Building a protein function annotation pipeline using Transformer-based language model.  
 
-[Colab-Notebook-Case-Study-1-Protein-Function-Prediction]
+[Colab-Notebook-Case-Study-1-Protein-Function-Prediction](https://github.com/Bishnukuet/ISMB_ECCB_2023_VT2_LLM/blob/main/notebooks/Day%202-Part-2B-Case_Study1-Transformer-Protein-Sequence-Classification.ipynb)
 
 ### 16:30-16:45 hrs CEST  - 15 minutes Break/Q&A
 
-### 16:45-17:45 hrs CEST | Hands-On Case Study 2 - Protein Metal-Binding Site Prediction | Slides
+### 16:45-17:45 hrs CEST | Hands-On Case Study 2 - Protein Metal-Binding Site Prediction | [Slides](https://github.com/Bishnukuet/ISMB_ECCB_2023_VT2_LLM/blob/main/Slides/Lecture%202.2%20-%20Case%20Studies_and_Closing_Remarks.pdf)
 -Introduction to Case Study-2:  Protein Metal-Binding Site Prediction.  
 -Building a protein-metal binding site prediction pipeline using Transformer-based language model.  
 
-[Colab-Notebook-Case-Study-2-Metal-Binding-Site-Prediction]
+[Colab-Notebook-Case-Study-2-Metal-Binding-Site-Prediction](https://github.com/Bishnukuet/ISMB_ECCB_2023_VT2_LLM/blob/main/notebooks/Day%202-Part-2C-Case_Study2_Transfomer_Metal_Binding_Site_Prediction.ipynb)
 
 ### 17:45-18:00 hrs CEST  - 15 minutes Q&A and closing remarks
 
