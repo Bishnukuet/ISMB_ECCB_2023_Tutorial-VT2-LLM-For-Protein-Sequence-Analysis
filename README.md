@@ -2,6 +2,10 @@
 # Protein Sequence Analysis using Transformer-based Large Language Model 
 To be held as part of  31st Conference on Intelligent Systems For Molecular Biology and 22nd European Conference on Computational Biology, July 23-27, Lyon, France. 
 Tutorial Dates: July 17-18, 2023 at 14:00-18:00 hrs CEST  
+### Citing this tutorial
+Please cite this tutorial as:
+**Bishnu Sarker, Sayane Shome, Farzana Rahman, Nima Aghaeepour (2023, July). Tutorial VT2: Protein Sequence Analysis using Transformer-based Large Language Model. In 31st Conference on Intelligent Systems for Molecular Biology and 22nd European Conference on Computational Biology (ISMB/ECCB 2023), Lyon, France.**
+
 ### Overview
 In the current decade, Artificial Intelligence (AI) / Machine Learning(ML) has tremendously facilitated scientific discoveries in biomedicine. Moreover, the recent advancements in the development of large language models (a type of deep learning model that can read, summarize, translate, and generate text as we humans do) have inspired many researchers to find applications in biological sequence analysis, partly because of the similarities in the data. Attention-based deep transformer models [1,2] pre-trained in a self-supervised fashion on large corpus have dramatically transformed research in natural language processing. The attention mechanism involved in transformer models captures the long-distance relationship among words in textual data [2]. Following a similar principle in the biological domain, researchers have trained transformer-based protein language models for biological sequence analysis. For example, ProtTrans [3] was trained on UniProtKB [4] sequences for protein sequence analysis. They showed that transformer-based self-supervised protein language models effectively capture the spatial relationship among residues which is critical for understanding the functional and structural aspects of proteins. 
 
@@ -41,6 +45,20 @@ The participants are requested to follow the following steps to prepare their wo
 Create a folder named ISMB_ECCB_2023  in your Google Drive.
 Upload the data  Folder shared with you and place it under the folder ISMB_ECCB_2023. With data folder placed correctly, the notebooks should be executable without any error. 
 Upload ISMB_ECCB_2023_notebooks  folder shared with you and place it under ISMB_ECCB_2023 .
+
+### Organizers: 
+#### 1. Bishnu Sarker 
+Bishnu Sarker is an Assistant Professor of Computer Science and Data Science at Meharry Medical College, Nashville, TN, USA. His research focus is on applying AI, deep learning, natural language processing (NLP), and graph-based reasoning approaches to effectively describe proteins numerically and to infer their functional characteristics from complex, heterogeneous, and interconnected biomedical data. He received his BS from Khulna University of Engineering and Technology, Bangladesh; MS from Sorbonne University, France; and PhD from INRIA, France. During his PhD he spent a winter at MILA - Quebec AI Institute and University of Montreal, Canada, as a visiting researcher with the DrEAM mobility grant from University of Lorraine. 
+
+#### 2. Sayane Shome 
+Sayane Shome is a postdoctoral researcher at Stanford University, USA, as a joint appointment between Dr. Nima Aghaeepour and Dr. Lawrence S. Prince's labs. She completed her PhD. in Bioinformatics from Iowa State University, USA, under the supervision of Dr. Robert L. Jernigan. Her Ph.D. dissertation involved studying various membrane protein systems using computational biophysical methods. Under her postdoctoral fellowship at Stanford, she has been working with computational analysis of different omics datasets and developing AI models using biomedical data focussed on understanding the progression of Bronchopulmonary dysplasia in newborn babies. In addition, she has strong interests in outreach, science communication, and STEM awareness amongst underrepresented groups and has volunteered with various non-profit organizations. She has also been associated with the International Society of Computational Biology (ISCB)-Student Council at leadership levels for several years. 
+
+#### 3. Farzana Rahman 
+Farzana Rahman is a Lecturer ( USA Level: Assistant Professor) of Computer Science at Kingston University London, UK. Her research focuses on evolutionary genomics, proteomics and natural crisis modelling using ML, deep learning, and cloud computing. She is actively involved in improving computational pedagogy utilising Wikipedia knowledge base. She is an open-source science advocate and an experienced international STEM conference organizer. She is a co-chair of the International Society for Computational Biology's (ISCB) Wikipedia Committee and Editing Competition. She is also a founding member of the ISCB publication committee. As part of her leadership role, Farzana served a 3-year term as an elected Board of Director at the ISCB. 
+
+#### 4. Nima Aghaeepour 
+Nima Aghaeepour is an Associate Professor at Stanford University. His laboratory develops ML and AI methods to study clinical and biological modalities in translational settings. He is primarily interested in leveraging multi-omics studies, wearable devices, and electronic health records to address global health challenges. His work is recognized by awards from numerous national and international organizations, including the Bill and Melinda Gates Foundation, the Alfred E. Mann Foundation, the March of Dimes Foundation, the Burroughs Wellcome Fund, and the National Institute of General Medical Sciences. 
+
 
 ### Acknowledgements
 We would like to thank all the participants for attending this tutorial session and making it a successful event. 
