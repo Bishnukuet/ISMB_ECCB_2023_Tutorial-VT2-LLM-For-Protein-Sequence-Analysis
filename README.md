@@ -4,6 +4,7 @@ To be held as part of  31st Conference on Intelligent Systems For Molecular Biol
 Tutorial Dates: July 17-18, 2023 at 14:00-18:00 hrs CEST  
 ### Citing this tutorial
 Please cite this tutorial as:
+
 **Bishnu Sarker, Sayane Shome, Farzana Rahman, Nima Aghaeepour (2023, July). Tutorial VT2: Protein Sequence Analysis using Transformer-based Large Language Model. In 31st Conference on Intelligent Systems for Molecular Biology and 22nd European Conference on Computational Biology (ISMB/ECCB 2023), Lyon, France.**
 
 ### Overview
